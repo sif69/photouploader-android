@@ -36,7 +36,77 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df718dbc-2699-499e-9f7e-75629fbf1566" name="Changes" comment="" />
+    <list default="true" id="df718dbc-2699-499e-9f7e-75629fbf1566" name="Changes" comment="1st commit">
+      <change beforePath="$PROJECT_DIR$/.idea/appInsightsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/appInsightsSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/.idea/appInsightsSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/androidTest/java/com/example/photouploader/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/java/com/example/photouploader/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/java/com/example/photouploader/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/java/com/example/photouploader/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/java/com/example/photouploader/MyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/java/com/example/photouploader/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/java/com/example/photouploader/showActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/drawable/baseline_add_a_photo_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/drawable/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/drawable/dashboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/drawable/image_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/drawable/login.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/drawable/register.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/font/aclonica.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/font/aldrich.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/layout/activity_show.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/layout/item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/app/src/test/java/com/example/photouploader/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoUploader/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +115,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[7339e4c0]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\F.Tech\.android\avd\Medium_Phone_API_33.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -97,8 +167,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -116,7 +192,7 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/F.Tech/AndroidStudioProjects/PhotoUploader/app/src/main/res/drawable&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/F.Tech/AndroidStudioProjects/PhotoUploader2&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Build Variants&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -215,6 +291,30 @@
       <option name="presentableId" value="Default" />
       <updated>1711342528633</updated>
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <option name="closed" value="true" />
+      <created>1711782401062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711782401062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
   </component>
 </project>
