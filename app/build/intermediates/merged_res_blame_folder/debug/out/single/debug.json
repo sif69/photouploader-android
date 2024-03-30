@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.example.photouploader.app-merged_res-37:/layout_activity_login.xml.flat",
+        "source": "com.example.photouploader.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\drawable_baseline_add_a_photo_24.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\drawable\\baseline_add_a_photo_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\drawable_cat.jpg.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\drawable\\cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\drawable_image_icon.png.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\drawable\\image_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\layout_item.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\layout_activity_show.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\font_aldrich.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\font\\aldrich.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\drawable_dashboard.jpg.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\drawable\\dashboard.jpg"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\drawable_login.jpg.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\drawable\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\drawable_register.jpg.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\drawable\\register.jpg"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-merged_res-37:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\F.Tech\\.gradle\\daemon\\8.2\\com.example.photouploader.app-main-39:\\drawable\\ic_launcher_foreground.xml"
+    }
+]
