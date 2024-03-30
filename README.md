@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>PhotoUploader App</title>
-</head>
-<body>
+
 
 <h1>PhotoUploader App</h1>
 
